@@ -1,6 +1,9 @@
 # The URL the site will be built for
 base_url = "https://sakkan.org"
 
+title = "YingZou's Blog"
+description = "A simple blog with nothing else."
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
