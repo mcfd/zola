@@ -1,6 +1,6 @@
 author = "yingzou"
 # The URL the site will be built for
-base_url = "https://sakkan.org"
+base_url = "https://www.sakkan.org"
 
 title = "yingzou's Blog"
 description = "A simple blog with nothing else."
