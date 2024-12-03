@@ -60,7 +60,7 @@ home_title = "Nothing"
 #home_content = "Welcome to a demo of the PaperMod theme!<br><b>PaperMod</b> is a simple but fast and responsive theme with a useful feature-set that enhances UX.<br>Do give a 🌟 on Github !<br>PaperMod is based on the hugo-PaperMod theme."
 home_content = "以病态自居，与弱者为伴。"
 social_icons = [
-     { url = "mailto://yingzou@tutanota.com", title = "E-mail", icon = "email" },
+     { url = "mailto:yingzou@tutanota.com", title = "E-mail", icon = "email" },
 #    { url = "https://github.com/cydave", title = "GitHub", icon = "github" },
 #    { url = "https://infosec.exchange/@cydave", title = "Mastodon", icon = "mastodon" },
 #    { url = "https://twitter.com/_cydave", title = "Twitter", icon = "twitter" },
