@@ -1,12 +1,8 @@
 +++
 title =  "使用 maddy mail 搭建个人邮箱服务"
-
-date = 2024-05-15T01:37:00Z
-
-
+date = "2024-05-15"
 
 [taxonomies]
-
 tags = ["maddy","email","自托管","个人邮箱"]
 +++
 
