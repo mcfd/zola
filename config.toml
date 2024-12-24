@@ -80,7 +80,7 @@ home_content = "以病态自居，与弱者为伴。"
 social_icons = [
      { url = "mailto:yingzou@tutanota.com", title = "E-mail", icon = "email" },
      { url = "https://mastodon.ktachibana.party/@yingzou", title = "Mastodon", icon = "mastodon" },
-     { url = "https://matrix.to/#/@yingzou:sakkan.org", title = "Matrix", icon = "matrix" },
+#    { url = "https://matrix.to/#/@yingzou:sakkan.org", title = "Matrix", icon = "matrix" },
 #    { url = "https://github.com/cydave", title = "GitHub", icon = "github" },
 #    { url = "https://infosec.exchange/@cydave", title = "Mastodon", icon = "mastodon" },
 #    { url = "https://twitter.com/_cydave", title = "Twitter", icon = "twitter" },
